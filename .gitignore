@@ -37,3 +37,11 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Firebase
+.firebase/
+functions/node_modules
+functions/dist
+public
+
+package-lock.json
